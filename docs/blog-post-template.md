@@ -1,6 +1,6 @@
  <!-- Title, author, date block standard in all blog post files -->
 # Title of post
-*Author(s): <br/>
+*Author(s):*<br/>
 <!-- Hide this human-readable detail so content doesn't appear to be stale or dated
 *Date Published: YYYY-MM-DD*<br/>
 *Date Updated: N/A or YYYY-MM-DD*<br/>
@@ -29,6 +29,8 @@ So put your topic right up front, and give your Big Reveal the first paragraph a
 
 Journalism calls this the [inverted pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism).
 You may find when applying this principle, one of your last paragraphs gets moved up to become the first paragraph.
+
+> :bulb: **Tip** If you are writing technical content, the [Op1st technical markup style guide](https://github.com/operate-first/community-handbook/blob/main/contributing/tecnical-markup-style-guide.md) shows you how to markup code, user interface instructions, and so forth.
 
 ## Have some sections
 
