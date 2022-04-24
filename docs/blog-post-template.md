@@ -1,0 +1,54 @@
+ <!-- Title, author, date block standard in all blog post files -->
+# Title of post
+*Author(s): <br/>
+<!-- Hide this human-readable detail so content doesn't appear to be stale or dated
+*Date Published: YYYY-MM-DD*<br/>
+*Date Updated: N/A or YYYY-MM-DD*<br/>
+-->
+
+<!--
+Categories:
+Tags:
+-->
+
+This is the first paragraph of the post, it is not an academic paper thesis.
+Instead, this is the chance to grab your reader by giving them the most important information up front.
+This is where the formula of _The Five Ws, One H_ comes in:
+
+- **Who** is this post about
+- **What** did they do or are going to do
+- **Why** is it interesting
+- **Where** is it happening
+- **When** is it happening
+- **How** is it going to happen
+
+It's almost like you are going to tell the punchline of a joke up front, and then work backwards toward the less interesting parts.
+This is because you are not here to tell a story that is entrancing and captivating.
+You are here to capture and hold interest about the topic you are writing about.
+So put your topic right up front, and give your Big Reveal the first paragraph attention it deserves.
+
+Journalism calls this the [inverted pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism).
+You may find when applying this principle, one of your last paragraphs gets moved up to become the first paragraph.
+
+## Have some sections
+
+You can divide a blog post into logical sections, which helps the reader stay with the story you are telling and not get lost in a long line of paragraphs.
+
+Speaking of paragraphs, if you look at the source of this MarkDown, you will see each sentence in these paragraphs is on a line by itself.
+Because there is no space between this line and the one above it, the sentences are rendered into the same paragraph.
+
+The reason we have each sentence on its own line is for the editing and reviewing process.
+When someone has a suggestion to make or question to ask about a particular part of your post, it will most often be a change in a single sentence.
+When the paragraphs are all one line, with each sentence on the same line, the entire paragraph is presented as one block for the _diff_, which is where GitHub shows the changes (differences) between two files.
+When the sentences are on their own line, it is much easier to see where a change has happened, and to comment or suggest on smaller parts of the work.
+
+## Sections make content easier to understand
+
+When you put content into sections, it forces you to think about how others see/don't see the organization of your information.
+It is not uncommon to restructure a post after adding in sections.
+The sections can make it clear that a paragraph or sentence belongs in one section over another.
+
+## Have a conclusion
+
+Having a few sentences that conclude or summarize the blog post, even if it's repetitive for the opening of the post.
+It's a reasonable and useful way to end a blog, making sure readers are taking away your key points.
