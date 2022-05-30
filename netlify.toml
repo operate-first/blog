@@ -1,0 +1,5 @@
+# redirect /blog/<slug> to /<slug> in netlify PR previews
+
+[[redirects]]
+  from = "/blog/*"
+  to = "/:splat"
