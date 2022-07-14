@@ -1,4 +1,4 @@
-# Operate First Blog
+# [Operate First Blog](https://www.operate-first.cloud/blog/)
 
 This is based on https://github.com/LekoArts/gatsby-starter-minimal-blog - please read the documentation before you continue!
 
